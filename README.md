@@ -9,4 +9,4 @@ this is the repository to store all the information about  my Data science with 
 ## ***___Day5___***: Indroduction to Get&Gethub [Recordings](https://transcripts.gotomeeting.com/#/s/92f5635805d7e3451d4a79ce984f3118e955e3e8929c51e632f9cbc87fee4533)
 ## ***___Day6___***: Basic Python Syntaxs part1 [Recordings](https://transcripts.gotomeeting.com/#/s/690197bfecf7d4018fba26d780871215ea988d8bef095e721ea494464c0efe71)
 ## ***___weekend attendence sheet***___ [Click here for Attendence](https://docs.google.com/spreadsheets/d/1jGqff5PyL53ukZL3z8_6NjaKkoNcg93M92Mouf8bKrI/edit?usp=sharing)
-## ***___Day7___***: Basic Python Syntaxs part2 [Recordings]
+## ***___Day7___***: Basic Python Syntaxs part2 [Recordings](https://youtu.be/X5mPhddbLL8)
