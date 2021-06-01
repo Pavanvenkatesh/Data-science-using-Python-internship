@@ -10,5 +10,6 @@ this is the repository to store all the information about  my Data science with 
 ## ***___Day6___***: Basic Python Syntaxs part1 [Recordings](https://transcripts.gotomeeting.com/#/s/690197bfecf7d4018fba26d780871215ea988d8bef095e721ea494464c0efe71)
 ## ***___weekend attendence sheet***___ [Click here for Attendence](https://docs.google.com/spreadsheets/d/1jGqff5PyL53ukZL3z8_6NjaKkoNcg93M92Mouf8bKrI/edit?usp=sharing)
 ## ***___Day7___***: Basic Python Syntaxs part2 [Recordings](https://youtu.be/X5mPhddbLL8)
+## ***___Day8___***: Basic Python Syntaxs part3 [Recordings]
 # ***___Special thanks to___***
 # ***___T.Anil kumar (Trainer)___*** ![APSSDC-LOGO](https://camo.githubusercontent.com/ae6595fb4d9538f2c8bf3ab504d8e2ce66c7aa13e128901f7a7ccacb63b9361c/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d646f776e6c6f61642669643d3135414b51365f2d42697857344b366d4c36525070684635454b58715946327a6a)
