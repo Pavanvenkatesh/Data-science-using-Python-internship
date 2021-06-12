@@ -17,5 +17,9 @@ this is the repository to store all the information about  my Data science with 
 ## ***___Day12___***: files in python [[Recordings]](https://www.youtube.com/watch?v=QJbq4PcLiBY)
 ## ***___2nd week attendence sheet***___ [[Click here for Attendence]](https://docs.google.com/spreadsheets/d/1jGqff5PyL53ukZL3z8_6NjaKkoNcg93M92Mouf8bKrI/edit#gid=0)
 ## ***___Day13___***: files and packages in python[[Recordings]](https://www.youtube.com/watch?v=DeTPamDZa5Y)
+## ***___Day14___***: Modules and Packages in Python → **[[.ipynb]](Notebooks/Day14_Modules_and_Packages_in_Python/Day14_Modules_and_Packages_in_Python.ipynb)**, **[[.pdf]](PDF_Notebooks/Day14_Modules_and_Packages_in_Python.pdf)** - **[[Recording]](https://youtu.be/ahszOgSM15s)**
+## ***___Day15___***:  Regular Expressions in Python → **[[.ipynb]](Notebooks/Day15_Regular_Expressions_in_Python.ipynb)**, **[[.pdf]](PDF_Notebooks/Day15_Regular_Expressions_in_Python.pdf)** - **[[Recording]](https://youtu.be/-JSIVDLHGMw)**
+## ***___Day16___***: Regular Expressions in Python → **[[.ipynb]](Notebooks/Day16_Comprehensions_and_Special_Functions_in_Python.ipynb)**, **[[.pdf]](PDF_Notebooks/Day16_Comprehensions_and_Special_Functions_in_Python.pdf)** - **[[Recording]](https://youtu.be/bRRj00RQeoU)**
+## ***___Day17___***: Object Oriented Programming in Python → **[[.ipynb]](Notebooks/Day17_Object_Oriented_Programming_in_Python.ipynb)**, **[[.pdf]](PDF_Notebooks/Day17_Object_Oriented_Programming_in_Python.pdf)** - **[[Recording]](https://youtu.be/NcdI5qQ5LHg)**
 ## ***___Special thanks to___***
 ## ***___T.Anil kumar (Trainer)___*** ![APSSDC-LOGO](https://camo.githubusercontent.com/ae6595fb4d9538f2c8bf3ab504d8e2ce66c7aa13e128901f7a7ccacb63b9361c/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d646f776e6c6f61642669643d3135414b51365f2d42697857344b366d4c36525070684635454b58715946327a6a)
